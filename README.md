@@ -2,6 +2,8 @@
 
 A web app for viewing and exploring yield curve data.
 
+v1 currently supports yield curve data for the US, Europe, and Japan.
+
 ## Getting started
 
 1. Clone this repo.
