@@ -1,0 +1,199 @@
+{
+  "market": "japan",
+  "title": "Japan Government Bond Curve",
+  "source": {
+    "name": "Ministry of Finance Japan JGB Interest Rate",
+    "type": "official_fixed_tenor",
+    "methodologyLabel": "Official fixed-tenor MOF series"
+  },
+  "snapshots": [
+    {
+      "label": "Current",
+      "targetDate": "2026-03-31",
+      "actualDate": "2026-03-31",
+      "points": [
+        {
+          "tenor": "1Y",
+          "months": 12,
+          "yieldBp": 110
+        },
+        {
+          "tenor": "2Y",
+          "months": 24,
+          "yieldBp": 138
+        },
+        {
+          "tenor": "3Y",
+          "months": 36,
+          "yieldBp": 150
+        },
+        {
+          "tenor": "5Y",
+          "months": 60,
+          "yieldBp": 180
+        },
+        {
+          "tenor": "7Y",
+          "months": 84,
+          "yieldBp": 202
+        },
+        {
+          "tenor": "10Y",
+          "months": 120,
+          "yieldBp": 237
+        },
+        {
+          "tenor": "20Y",
+          "months": 240,
+          "yieldBp": 328
+        },
+        {
+          "tenor": "30Y",
+          "months": 360,
+          "yieldBp": 364
+        }
+      ]
+    },
+    {
+      "label": "1 week ago",
+      "targetDate": "2026-03-24",
+      "actualDate": "2026-03-24",
+      "points": [
+        {
+          "tenor": "1Y",
+          "months": 12,
+          "yieldBp": 105
+        },
+        {
+          "tenor": "2Y",
+          "months": 24,
+          "yieldBp": 131
+        },
+        {
+          "tenor": "3Y",
+          "months": 36,
+          "yieldBp": 143
+        },
+        {
+          "tenor": "5Y",
+          "months": 60,
+          "yieldBp": 173
+        },
+        {
+          "tenor": "7Y",
+          "months": 84,
+          "yieldBp": 193
+        },
+        {
+          "tenor": "10Y",
+          "months": 120,
+          "yieldBp": 228
+        },
+        {
+          "tenor": "20Y",
+          "months": 240,
+          "yieldBp": 316
+        },
+        {
+          "tenor": "30Y",
+          "months": 360,
+          "yieldBp": 351
+        }
+      ]
+    },
+    {
+      "label": "1 month ago",
+      "targetDate": "2026-02-28",
+      "actualDate": "2026-02-27",
+      "points": [
+        {
+          "tenor": "1Y",
+          "months": 12,
+          "yieldBp": 102
+        },
+        {
+          "tenor": "2Y",
+          "months": 24,
+          "yieldBp": 125
+        },
+        {
+          "tenor": "3Y",
+          "months": 36,
+          "yieldBp": 134
+        },
+        {
+          "tenor": "5Y",
+          "months": 60,
+          "yieldBp": 159
+        },
+        {
+          "tenor": "7Y",
+          "months": 84,
+          "yieldBp": 178
+        },
+        {
+          "tenor": "10Y",
+          "months": 120,
+          "yieldBp": 213
+        },
+        {
+          "tenor": "20Y",
+          "months": 240,
+          "yieldBp": 298
+        },
+        {
+          "tenor": "30Y",
+          "months": 360,
+          "yieldBp": 334
+        }
+      ]
+    },
+    {
+      "label": "1 year ago",
+      "targetDate": "2025-03-31",
+      "actualDate": "2025-03-31",
+      "points": [
+        {
+          "tenor": "1Y",
+          "months": 12,
+          "yieldBp": 64
+        },
+        {
+          "tenor": "2Y",
+          "months": 24,
+          "yieldBp": 85
+        },
+        {
+          "tenor": "3Y",
+          "months": 36,
+          "yieldBp": 89
+        },
+        {
+          "tenor": "5Y",
+          "months": 60,
+          "yieldBp": 111
+        },
+        {
+          "tenor": "7Y",
+          "months": 84,
+          "yieldBp": 120
+        },
+        {
+          "tenor": "10Y",
+          "months": 120,
+          "yieldBp": 150
+        },
+        {
+          "tenor": "20Y",
+          "months": 240,
+          "yieldBp": 220
+        },
+        {
+          "tenor": "30Y",
+          "months": 360,
+          "yieldBp": 248
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "generatedAtUtc": "2026-04-09T04:09:16.160Z",
+  "siteVersion": "1.0.0",
+  "markets": [
+    "us",
+    "euro",
+    "japan"
+  ],
+  "refreshStatus": {
+    "us": "ok",
+    "euro": "ok",
+    "japan": "ok"
+  }
+}
