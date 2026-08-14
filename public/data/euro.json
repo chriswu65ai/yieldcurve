@@ -9,8 +9,8 @@
   "snapshots": [
     {
       "label": "Current",
-      "targetDate": "2026-08-11",
-      "actualDate": "2026-08-11",
+      "targetDate": "2026-08-12",
+      "actualDate": "2026-08-12",
       "points": [
         {
           "tenor": "3M",
@@ -20,59 +20,59 @@
         {
           "tenor": "6M",
           "months": 6,
-          "yieldBp": 255
+          "yieldBp": 254
         },
         {
           "tenor": "1Y",
           "months": 12,
-          "yieldBp": 268
+          "yieldBp": 267
         },
         {
           "tenor": "2Y",
           "months": 24,
-          "yieldBp": 279
+          "yieldBp": 278
         },
         {
           "tenor": "3Y",
           "months": 36,
-          "yieldBp": 288
+          "yieldBp": 286
         },
         {
           "tenor": "5Y",
           "months": 60,
-          "yieldBp": 307
+          "yieldBp": 306
         },
         {
           "tenor": "7Y",
           "months": 84,
-          "yieldBp": 327
+          "yieldBp": 326
         },
         {
           "tenor": "10Y",
           "months": 120,
-          "yieldBp": 353
+          "yieldBp": 351
         },
         {
           "tenor": "20Y",
           "months": 240,
-          "yieldBp": 398
+          "yieldBp": 396
         },
         {
           "tenor": "30Y",
           "months": 360,
-          "yieldBp": 407
+          "yieldBp": 406
         }
       ]
     },
     {
       "label": "1 week ago",
-      "targetDate": "2026-08-04",
-      "actualDate": "2026-08-04",
+      "targetDate": "2026-08-05",
+      "actualDate": "2026-08-05",
       "points": [
         {
           "tenor": "3M",
           "months": 3,
-          "yieldBp": 241
+          "yieldBp": 240
         },
         {
           "tenor": "6M",
@@ -87,32 +87,32 @@
         {
           "tenor": "2Y",
           "months": 24,
-          "yieldBp": 273
+          "yieldBp": 275
         },
         {
           "tenor": "3Y",
           "months": 36,
-          "yieldBp": 281
+          "yieldBp": 283
         },
         {
           "tenor": "5Y",
           "months": 60,
-          "yieldBp": 301
+          "yieldBp": 303
         },
         {
           "tenor": "7Y",
           "months": 84,
-          "yieldBp": 322
+          "yieldBp": 323
         },
         {
           "tenor": "10Y",
           "months": 120,
-          "yieldBp": 348
+          "yieldBp": 349
         },
         {
           "tenor": "20Y",
           "months": 240,
-          "yieldBp": 394
+          "yieldBp": 393
         },
         {
           "tenor": "30Y",
@@ -123,7 +123,7 @@
     },
     {
       "label": "1 month ago",
-      "targetDate": "2026-07-11",
+      "targetDate": "2026-07-12",
       "actualDate": "2026-07-10",
       "points": [
         {
@@ -180,8 +180,8 @@
     },
     {
       "label": "1 year ago",
-      "targetDate": "2025-08-11",
-      "actualDate": "2025-08-11",
+      "targetDate": "2025-08-12",
+      "actualDate": "2025-08-12",
       "points": [
         {
           "tenor": "3M",
@@ -196,42 +196,42 @@
         {
           "tenor": "1Y",
           "months": 12,
-          "yieldBp": 196
+          "yieldBp": 197
         },
         {
           "tenor": "2Y",
           "months": 24,
-          "yieldBp": 204
+          "yieldBp": 205
         },
         {
           "tenor": "3Y",
           "months": 36,
-          "yieldBp": 218
+          "yieldBp": 220
         },
         {
           "tenor": "5Y",
           "months": 60,
-          "yieldBp": 250
+          "yieldBp": 254
         },
         {
           "tenor": "7Y",
           "months": 84,
-          "yieldBp": 280
+          "yieldBp": 284
         },
         {
           "tenor": "10Y",
           "months": 120,
-          "yieldBp": 315
+          "yieldBp": 320
         },
         {
           "tenor": "20Y",
           "months": 240,
-          "yieldBp": 364
+          "yieldBp": 371
         },
         {
           "tenor": "30Y",
           "months": 360,
-          "yieldBp": 367
+          "yieldBp": 374
         }
       ]
     }
