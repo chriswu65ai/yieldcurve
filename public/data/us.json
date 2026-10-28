@@ -9,13 +9,13 @@
   "snapshots": [
     {
       "label": "Current",
-      "targetDate": "2026-10-26",
-      "actualDate": "2026-10-26",
+      "targetDate": "2026-10-27",
+      "actualDate": "2026-10-27",
       "points": [
         {
           "tenor": "1M",
           "months": 1,
-          "yieldBp": 411
+          "yieldBp": 410
         },
         {
           "tenor": "3M",
@@ -25,69 +25,7 @@
         {
           "tenor": "6M",
           "months": 6,
-          "yieldBp": 435
-        },
-        {
-          "tenor": "1Y",
-          "months": 12,
-          "yieldBp": 447
-        },
-        {
-          "tenor": "2Y",
-          "months": 24,
-          "yieldBp": 468
-        },
-        {
-          "tenor": "3Y",
-          "months": 36,
-          "yieldBp": 479
-        },
-        {
-          "tenor": "5Y",
-          "months": 60,
-          "yieldBp": 484
-        },
-        {
-          "tenor": "7Y",
-          "months": 84,
-          "yieldBp": 491
-        },
-        {
-          "tenor": "10Y",
-          "months": 120,
-          "yieldBp": 500
-        },
-        {
-          "tenor": "20Y",
-          "months": 240,
-          "yieldBp": 535
-        },
-        {
-          "tenor": "30Y",
-          "months": 360,
-          "yieldBp": 531
-        }
-      ]
-    },
-    {
-      "label": "1 week ago",
-      "targetDate": "2026-10-19",
-      "actualDate": "2026-10-19",
-      "points": [
-        {
-          "tenor": "1M",
-          "months": 1,
-          "yieldBp": 411
-        },
-        {
-          "tenor": "3M",
-          "months": 3,
-          "yieldBp": 427
-        },
-        {
-          "tenor": "6M",
-          "months": 6,
-          "yieldBp": 437
+          "yieldBp": 434
         },
         {
           "tenor": "1Y",
@@ -97,12 +35,74 @@
         {
           "tenor": "2Y",
           "months": 24,
-          "yieldBp": 477
+          "yieldBp": 470
         },
         {
           "tenor": "3Y",
           "months": 36,
-          "yieldBp": 485
+          "yieldBp": 480
+        },
+        {
+          "tenor": "5Y",
+          "months": 60,
+          "yieldBp": 482
+        },
+        {
+          "tenor": "7Y",
+          "months": 84,
+          "yieldBp": 491
+        },
+        {
+          "tenor": "10Y",
+          "months": 120,
+          "yieldBp": 499
+        },
+        {
+          "tenor": "20Y",
+          "months": 240,
+          "yieldBp": 534
+        },
+        {
+          "tenor": "30Y",
+          "months": 360,
+          "yieldBp": 530
+        }
+      ]
+    },
+    {
+      "label": "1 week ago",
+      "targetDate": "2026-10-20",
+      "actualDate": "2026-10-20",
+      "points": [
+        {
+          "tenor": "1M",
+          "months": 1,
+          "yieldBp": 410
+        },
+        {
+          "tenor": "3M",
+          "months": 3,
+          "yieldBp": 426
+        },
+        {
+          "tenor": "6M",
+          "months": 6,
+          "yieldBp": 436
+        },
+        {
+          "tenor": "1Y",
+          "months": 12,
+          "yieldBp": 451
+        },
+        {
+          "tenor": "2Y",
+          "months": 24,
+          "yieldBp": 479
+        },
+        {
+          "tenor": "3Y",
+          "months": 36,
+          "yieldBp": 486
         },
         {
           "tenor": "5Y",
@@ -112,28 +112,28 @@
         {
           "tenor": "7Y",
           "months": 84,
-          "yieldBp": 504
+          "yieldBp": 502
         },
         {
           "tenor": "10Y",
           "months": 120,
-          "yieldBp": 515
+          "yieldBp": 512
         },
         {
           "tenor": "20Y",
           "months": 240,
-          "yieldBp": 553
+          "yieldBp": 547
         },
         {
           "tenor": "30Y",
           "months": 360,
-          "yieldBp": 548
+          "yieldBp": 542
         }
       ]
     },
     {
       "label": "1 month ago",
-      "targetDate": "2026-09-26",
+      "targetDate": "2026-09-27",
       "actualDate": "2026-09-25",
       "points": [
         {
@@ -195,28 +195,28 @@
     },
     {
       "label": "1 year ago",
-      "targetDate": "2025-10-26",
-      "actualDate": "2025-10-24",
+      "targetDate": "2025-10-27",
+      "actualDate": "2025-10-27",
       "points": [
         {
           "tenor": "1M",
           "months": 1,
-          "yieldBp": 411
+          "yieldBp": 409
         },
         {
           "tenor": "3M",
           "months": 3,
-          "yieldBp": 393
+          "yieldBp": 389
         },
         {
           "tenor": "6M",
           "months": 6,
-          "yieldBp": 376
+          "yieldBp": 373
         },
         {
           "tenor": "1Y",
           "months": 12,
-          "yieldBp": 358
+          "yieldBp": 359
         },
         {
           "tenor": "2Y",
@@ -226,7 +226,7 @@
         {
           "tenor": "3Y",
           "months": 36,
-          "yieldBp": 349
+          "yieldBp": 350
         },
         {
           "tenor": "5Y",
@@ -241,17 +241,17 @@
         {
           "tenor": "10Y",
           "months": 120,
-          "yieldBp": 402
+          "yieldBp": 401
         },
         {
           "tenor": "20Y",
           "months": 240,
-          "yieldBp": 456
+          "yieldBp": 455
         },
         {
           "tenor": "30Y",
           "months": 360,
-          "yieldBp": 459
+          "yieldBp": 457
         }
       ]
     }
