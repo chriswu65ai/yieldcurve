@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-11-05T09:38:35.836Z",
+  "generatedAtUtc": "2026-11-06T09:31:25.356Z",
   "siteVersion": "1.0.0",
   "markets": [
     "us",
@@ -8,7 +8,7 @@
   ],
   "refreshStatus": {
     "us": "ok",
-    "euro": "stale",
+    "euro": "ok",
     "japan": "ok"
   }
 }
